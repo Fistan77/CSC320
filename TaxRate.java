@@ -1,3 +1,5 @@
+//Jeremy Carney, CSC320, Dr. Dong Nguyen, 02/02/2025
+
 import java.util.Scanner;
 
 public class TaxRate {
